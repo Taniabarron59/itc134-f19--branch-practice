@@ -1,2 +1,3 @@
 Here is some text in my test file
+add some text
 Add me some text
